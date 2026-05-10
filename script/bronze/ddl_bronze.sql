@@ -20,9 +20,9 @@ CREATE TABLE bronze_crm_cust_info (
     cst_key VARCHAR(50),
     cst_firstname VARCHAR(50),
     cst_lastname VARCHAR(50),
-    cst_material_status VARCHAR(50),
+    cst_martial_status VARCHAR(50),
     cst_gndr VARCHAR(50),
-    cts_create_date DATE
+    cst_create_date DATE
 );
 
 -- Create bronze_crm_prd_info
